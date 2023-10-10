@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align='center'>:wave: Welcome to my github profile! :wave:</p>     
 
 <p align="left">안녕하세요!</p>
-<p align="left">저는 사용자 입장에서 생각하는 프론트엔드 개발자  <strong>김민준</strong>입니다.</br>
+<p align="left">사용자 입장에서 생각하고 고민하는 프론트엔드 개발자  <strong>김민준</strong>입니다.</br>
 <hr> 
 
 
