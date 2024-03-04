@@ -29,15 +29,8 @@
 
 
 <br/>  
-<h2>📔 Project</h2>
-<p><strong>Scrooge</strong></p>
-<ul>
-    <li>카카오톡 거지 오픈 채팅 방을 커뮤니티 형태로 만든 웹 사이트</li>
-    <li>1인 개발 개인 프로젝트</li>
-    <li>github: https://github.com/sockki/scrooge</li>
-    <li>사이트 링크: https://scrooge-chi.vercel.app/</li>
-</ul>
-
+<h2>📔 Portpolio</h2>
+[바로가기]-(https://kimminjun-frontend-portfolio.notion.site/4ae587935e694fc79b477d63d237c593?pvs=4)👈
 
 
 
