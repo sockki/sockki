@@ -30,7 +30,7 @@
 
 <br/>  
 <h2>📔 Portpolio</h2>
-[바로가기]-(https://kimminjun-frontend-portfolio.notion.site/4ae587935e694fc79b477d63d237c593?pvs=4)👈
+[바로가기]- (https://minjun-kim-portfolio.vercel.app/) 👈
 
 
 
