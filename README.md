@@ -28,9 +28,3 @@
 
 
 
-<br/>  
-<h2>📔 Portpolio</h2>
-[바로가기]- (https://minjun-kim-portfolio.vercel.app/) 👈
-
-
-
